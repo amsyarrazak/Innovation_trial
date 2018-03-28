@@ -1,0 +1,1 @@
+include ':feature_prototype', ':app', ':base', ':instantapp'
